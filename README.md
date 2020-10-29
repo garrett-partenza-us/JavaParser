@@ -15,6 +15,12 @@ while count > 0 do
 od  
 write sum  
 
+##### To run, cd into master and execute the following commands
+'''
+rm -r p1
+javac -d . MAIN_Compiler.java parser.java 
+java p1.MAIN_Compiler ./input.txt 
+'''
 
 
 
