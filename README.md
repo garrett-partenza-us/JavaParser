@@ -4,16 +4,16 @@
 
 ##### *An example of a valid program*
 
-> abs := n
-> if n < 0 then abs := 0 - abs fi
-> sum := 0
-> read count
-> while count > 0 do
->   read n
->   sum := sum + n
->   count := count - 1
->   od
-> write sum
+abs := n
+if n < 0 then abs := 0 - abs fi
+sum := 0
+read count
+while count > 0 do
+ read n
+ sum := sum + n
+ count := count - 1
+od
+write sum
 
 
 
