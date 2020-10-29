@@ -1,6 +1,6 @@
 # Mini Parser Coded From Scratch in Java
 
-##### This is a parser written in Java that reads and parses programs writtin in the mini programming language. The output of the parser is the WebGraphViz code to display the visual parse-graph at Webgraphviz.com. The grammar is outline in the grammar.pdf file.
+##### This is a parser written in Java that reads and parses programs writtin in the mini programming language. The output of the parser is the WebGraphViz code to display the visual parse-graph at Webgraphviz.com. The grammar is outlined in the grammar.pdf file.
 
 ##### *Example of a valid program*
 
